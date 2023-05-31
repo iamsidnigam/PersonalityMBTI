@@ -3,7 +3,7 @@ export const jsonData = {
     {"Q.no": 1, "Question": "You usually stay calm, even under a lot of pressure."},
     {"Q.no": 2, "Question": "At social events, you rarely try to introduce yourself to new people and mostly talk to the ones you already know."},
     {"Q.no": 3, "Question": "You tend to avoid drawing attention to yourself"},
-    {"Q.no": 4, "Question": "You avoid making phone calls."},
+    {"Q.no": 4, "Question": "You only prefer texting"},
     //SN
     {"Q.no": 5, "Question": "You spend a lot of your free time exploring various random topics that pique your interest."},
     {"Q.no": 6, "Question": "You are definitely not an artistic type of person"},
